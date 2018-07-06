@@ -14,6 +14,17 @@ Definición del MVP.
 
 Definicion de clases y métodos.
 
+## States y States Transitions
+
+Definicion del las transiciones del juego y del main.
+
+- splashScreen
+- gameScreen
+- gameoverScreen
+- winScreen
+
+funciones de transicion.
+
 ## Task
 
 Definicion de las tareas por orden de prioridad
