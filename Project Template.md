@@ -10,7 +10,7 @@ Definición del MVP.
 
 ## Backlog
 
-##  Estructuras de Datos
+## Estructuras de Datos
 
 Definicion de clases y métodos.
 
