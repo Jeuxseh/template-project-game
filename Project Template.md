@@ -18,17 +18,25 @@ Definicion de clases y métodos.
 
 Definicion de las tareas por orden de prioridad
 
-## Trello
+## Links
+
+### Trello
 
 [Link url](https://trello.com)
 
-## Git
+### Git
 
 Especificar las url del proyecto y del deploy
 
 [Link Repositorio](http://github.com)
 
 [Link Deploy](http://github.com)
+
+### Slides.com
+
+Especificar la url de la presentacion
+
+[Link Slides.com](http://slides.com)
 
 ## Instrucciones del juego 
 
